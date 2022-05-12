@@ -4,4 +4,4 @@ hello
 
 hello
 hello
-hello
+/usr/bin/bash: wq: command not found
